@@ -253,7 +253,4 @@ docker push <YOUR_AWS_ACCOUNT_ID>.dkr.ecr.us-east-1.amazonaws.com/hello-world-ap
 - **python-dotenv**: Environment variable management
 - **gunicorn**: Production WSGI server
 
-## License
-
-MIT License
 
